@@ -1,0 +1,8 @@
+Bit: 1 Paritaet: 1
+Bit: 1 Paritaet: 3
+Bit: 3 Paritaet: 1
+Bit: 3 Paritaet: 4
+Fehlerstelle von bit 1 an der Stelle 5
+Fehlerstelle von bit 2 an der Stelle 0
+Fehlerstelle von bit 3 an der Stelle 9
+Fehlerstelle von bit 4 an der Stelle 0
