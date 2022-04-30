@@ -1,0 +1,8 @@
+Pol: main2.o DIYstack.o
+	gcc -o Pol main2.o DIYstack.o
+
+main2.o: main2.c
+	gcc -c -o main2.o main2.c
+
+DIYstack.o: DIYstack.c
+	gcc -c -o DIYstack.o DIYstack.c

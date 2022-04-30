@@ -1,0 +1,3 @@
+double g(double k, double d)
+
+	double g = -d/k

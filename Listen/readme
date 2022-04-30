@@ -1,0 +1,5 @@
+Es gibt zwei Varianten dieses Programms
+Ein Testprogramm und eine Variante fuer einen polnischen Taschenrechner
+Beide koennen mit make kompiliert werden:
+	make test
+	make pol

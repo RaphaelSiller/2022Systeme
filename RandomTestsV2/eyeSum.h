@@ -1,0 +1,2 @@
+int eyeSum(int nWuerfel);
+

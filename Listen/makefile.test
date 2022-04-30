@@ -1,0 +1,8 @@
+Test: main.o DIYstack.o
+	gcc -o Test main.o DIYstack.o
+
+main.o: main.c
+	gcc -c -o main.o main.c
+
+DIYstack.o: DIYstack.c
+	gcc -c -o DIYstack.o DIYstack.c
